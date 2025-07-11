@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+spacy
+lime
+shap
+pandas
+scikit-learn
+python-docx 
